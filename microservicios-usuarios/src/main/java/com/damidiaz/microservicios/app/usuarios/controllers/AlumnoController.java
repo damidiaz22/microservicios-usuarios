@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.damidiaz.microservicios.app.usuarios.models.entity.Alumno;
 import com.damidiaz.microservicios.app.usuarios.services.AlumnoService;
 
-// git test
+
 
 @RestController
 public class AlumnoController {
