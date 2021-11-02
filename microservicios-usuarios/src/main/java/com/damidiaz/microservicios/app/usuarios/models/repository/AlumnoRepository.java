@@ -7,3 +7,5 @@ import com.damidiaz.microservicios.app.usuarios.models.entity.Alumno;
 public interface AlumnoRepository extends CrudRepository<Alumno,Long> {
 
 }
+
+
